@@ -2,6 +2,7 @@
 #Autor: Egídio Neto
 #To lascado
 
+echo'tudo dando certo'
 cd imagens-livros
 for imagem in *.jpg
 do
@@ -12,3 +13,4 @@ done
 echo "iniciando"
 
 cd ..
+echo' ja deu certo'
